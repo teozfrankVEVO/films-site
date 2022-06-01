@@ -84,5 +84,27 @@ body {
 }
 
 .page-content {
-    margin: 40px 20px;
+    margin: 40px 200px 0px 20px;
 }
+
+.page-wrapper a {
+    text-decoration: none;
+    color: inherit
+}
+
+.warning {
+    color: red;
+}
+footer {
+    margin-top: 30px;
+    text-align: left;
+    background-color: rgb(177, 178, 178);
+    display: block;
+    min-width: none;
+    max-width: none;
+}
+
+.contacts {
+    margin: 3px 10px;
+}
+
